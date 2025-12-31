@@ -1,0 +1,30 @@
+﻿https://en.wikipedia.org/wiki/Pangram
+https://backpacker.gr/pangrams/
+
+Czech: Příliš žluťoučký kůň úpěl ďábelské ódy.
+Danish: Høj bly gom vandt fræk sexquiz på wc.
+Dutch: Pa's wĳze lynx bezag vroom het fikse aquaduct.
+English: The quick brown fox jumps over the lazy dog.
+Finnish: Wieniläinen siouxia puhuva ökyzombi diggaa Åsan roquefort-tacoja.
+German: Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.
+Hungarian: Egy hűtlen vejét fülöncsípő, dühös mexikói úr ázik Quitóban.
+Icelandic: Kæmi ný öxi hér, ykist þjófum nú bæði víl og ádrepa.
+Polish: Pchnąć w tę łódź jeża lub ośm skrzyń fig.
+Portuguese: Ré só que vê galã sexy pôr kiwi talhado à força em baú põe juíza
+            má em pânico.
+Romanian: Încă vând gem, whisky bej și tequila roz, preț fix.
+Serbian: Ljubazni fenjerdžija čađavog lica hoće da mi pokaže štos.
+Slovak: Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru
+        a žrať čerstvé mäso.
+Turkish: Pijamalı hasta yağız şoföre çabucak güvendi.
+
+Greek: Φλεγματικά χρώματα που εξοβελίζουν ψευδαισθήσεις.
+
+Belarusian: У Іўі худы жвавы чорт у зялёнай камізэльцы пабег пад’есці фаршу
+            з юшкай.
+Bulgarian: Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.
+Russian: Съешь ещё этих мягких французских булок, да выпей же чаю.
+Serbian: Љубазни фењерџија чађавог лица хоће да ми покаже штос.
+
+Hebrew: שפן אכל קצת גזר בטעם חסה, ודי
+Reversed Hebrew: ידו ,הסח םעטב רזג תצק לכא ןפש
