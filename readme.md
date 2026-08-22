@@ -102,6 +102,7 @@ Currently, there are 3 styles of the font:
   ǍǎǦǧǺǻǼǽǾǿȘșȚț  
   ɒɔɛɜɪʃʊʌƷʒ  
   ίιϊ  
+  Ѝѝ  
   ḂḃḊḋḞḟṀṁṖṗṠṡṪṫẀẁẂẃẄẅỲỳ
 * Other substituted/approximated characters:  
   ‗’‚‼↨∟⌐▬♫✓
@@ -230,6 +231,7 @@ found in either.
    just paste the file contents after the opening brace of the tuple.
    Then click the `BUILD FONT` button. You'll get asked about font details.
    I used these on that page:
+   - FontName: e.g. 512x8Bold, 512x16Bold, 512x8Sans, etc
    - Letter Spacing: monospace, 8px
    - Word Spacing: 0 px
    - Metrics: 7 (or 14) ascender, 1 (or 2) descender, 0 line gap  
