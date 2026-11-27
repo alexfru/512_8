@@ -84,14 +84,13 @@ Currently, there are 3 styles of the font:
   * most legible due to thickness and good contrast
   * recommended
 * sans (that is, sans serif, IOW, without serifs)
-  * thin, with worse contrast (text colors should be chosen carefully or
-    adjusted for this style)
-  * next best after bold
+  * thin and sparse, with the worst contrast among the three styles
+    (text colors should be chosen carefully or adjusted for this style)
 * serif (most letters have serifs)
-  * least legible due to serifs themselves or due to their effect on
-    the rest of the character shape
+  * medium contrast between the three styles
+    (text colors may still need to be chosen carefully or adjusted for
+    this style)
   * kinda cute
-  * to be used sparingly and mindfully, perhaps, for artistic effect
 
 
 ## Character approximations/substitution
